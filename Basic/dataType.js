@@ -27,4 +27,4 @@ let metaUser = {
 
    let one1 = Symbol("This is the number one symbol.");
    let one2 = Symbol("This is the number one symbol.");    //two symbol is not never equally equal.
-   console.log(one1=== one2);  //this is the false value for the symbol.
+   console.log(one1=== one2);  //this is the false value for the symbol.b
